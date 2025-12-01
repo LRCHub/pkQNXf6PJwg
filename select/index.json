@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Juliet",
+  "base_artist": "Sebastian Javier",
+  "createdAt": "2025-12-01T01:37:39.268939Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Kissing You (From \"Romeo and Juliet\")",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/01_I'm_Kissing_You_(From__Romeo_and_Juliet_)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Kissing You [From Romeo and Juliet]",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/02_I'm_Kissing_You_[From_Romeo_and_Juliet]_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crazy Juliet",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/03_Crazy_Juliet_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Juliet",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/04_Juliet_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Juliet of the Spirits",
+      "artist": "The B-52's",
+      "has_synced": true,
+      "path": "select/05_Juliet_of_the_Spirits_The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Juliet of the Spirits",
+      "artist": "The B‐52s",
+      "has_synced": true,
+      "path": "select/06_Juliet_of_the_Spirits_The_B‐52s.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In the Heart of Juliet",
+      "artist": "Liv Kristine",
+      "has_synced": true,
+      "path": "select/07_In_the_Heart_of_Juliet_Liv_Kristine.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Juliet",
+      "artist": "Emilie Autumn",
+      "has_synced": false,
+      "path": "select/08_Juliet_Emilie_Autumn.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Juliet",
+      "artist": "Sonata Arctica",
+      "has_synced": false,
+      "path": "select/09_Juliet_Sonata_Arctica.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Juliet",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/10_Juliet_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Juliet (orchestral version)",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/11_Juliet_(orchestral_version)_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Juliet (orchestral version)",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/12_Juliet_(orchestral_version)_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Romeo And Juliet - Live from Abbey Road /2006",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/13_Romeo_And_Juliet_-_Live_from_Abbey_Road__2006_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Juliet",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/14_Juliet_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Romeo And Juliet - Edit - Bonus track",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/15_Romeo_And_Juliet_-_Edit_-_Bonus_track_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Romeo And Juliet (Edit, bonus)",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/16_Romeo_And_Juliet_(Edit,_bonus)_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Romeo & Juliet",
+      "artist": "Dire Straits & Mark Knopfler",
+      "has_synced": false,
+      "path": "select/17_Romeo_&_Juliet_Dire_Straits_&_Mark_Knopfler.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Not Romeo Not Juliet",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/18_Not_Romeo_Not_Juliet_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Romeo And Juliet - Live At Hammersmith Odeon, London/1983",
+      "artist": "Dire Straits",
+      "has_synced": false,
+      "path": "select/19_Romeo_And_Juliet_-_Live_At_Hammersmith_Odeon,_London_1983_Dire_Straits.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Juliet",
+      "artist": "Sebastian Javier",
+      "has_synced": false,
+      "path": "select/pl_Juliet_Sebastian_Javier.txt"
+    }
+  ]
+}
